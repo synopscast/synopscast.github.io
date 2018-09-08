@@ -3,4 +3,5 @@ title: Synopscast
 description: A Dungeons and Dragons Adventurers League podcast by DMs for DMs
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+theme: minima
