@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Test post"
+tags: [testing, first]
+---
+
+# Test title
+
+paragraph 1
+
+paragraph 2
+
+witty remarks
+
+plug merch
